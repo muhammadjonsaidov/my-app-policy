@@ -13,4 +13,4 @@ When you log in with your Instagram account, we access the following information
 Your data is used solely for displaying analytics within this application for demonstration purposes. We do not store, share, or sell your personal information to any third parties.
 
 ## Data Deletion
-To remove your data from our app, please go to your Facebook account settings -> Business Integrations and remove the "My Clean Test App 2025" application. This will revoke all permissions. If you have any questions, you can contact us at [saidovmuhammadjon76@gmail.com].
+To remove your data from our app, please go to your Facebook account settings -> Business Integrations and remove the "My Clean Test App 2025" application. This will revoke all permissions. If you have any questions, you can contact us at saidovmuhammadjon76@gmail.com.
